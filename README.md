@@ -1,6 +1,10 @@
-<<<<<<< HEAD
+
 # lets_chat
 
-A new Flutter application.
+Chat application developed in Flutter.
 
->>>>>>> c95663631e85dfee9fac6c747864b44198667957
+# Backend
+
+- Firebase Auth for Authrntication
+- FIrebase Cloud firestore for storing chat history.
+
