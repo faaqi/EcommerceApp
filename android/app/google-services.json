@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84235701253",
+    "firebase_url": "https://flash-chat-8330c.firebaseio.com",
+    "project_id": "flash-chat-8330c",
+    "storage_bucket": "flash-chat-8330c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84235701253:android:cfa81d921b64eb85ae206c",
+        "android_client_info": {
+          "package_name": "com.afaqAhmed.lets_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84235701253-b79e7hrloe00lif8d7vhe3bg1aukhb71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDNQWjQ6g8tr1cxSLBplP9wGE4_FgDBQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84235701253-b79e7hrloe00lif8d7vhe3bg1aukhb71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
